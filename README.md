@@ -90,9 +90,3 @@ requests
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
----
-
-Если хочешь, я могу сразу **сделать готовый `requirements.txt`** с точными версиями библиотек, чтобы твой проект можно было поднять на любом ПК без проблем.  
-
-Хочешь, чтобы я это сделал?
