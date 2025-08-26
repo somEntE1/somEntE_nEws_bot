@@ -1,0 +1,22 @@
+# Игнорировать виртуальное окружение
+venv/
+env/
+
+# Игнорировать настройки среды
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи
+*.log
+
+# Jupyter Notebook checkpoints (если есть)
+.ipynb_checkpoints/
+
+# IDE файлы (VS Code, PyCharm и т.д.)
+.vscode/
+.idea/
